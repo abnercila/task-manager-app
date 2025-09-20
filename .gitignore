@@ -1,0 +1,16 @@
+# Dependencias de Node
+/backend/node_modules
+/frontend/node_modules
+
+# Archivos de la base de datos
+/backend/database/*.sqlite
+
+# Archivos de construcción de Vite
+/frontend/dist
+
+# Archivos del sistema
+.DS_Store
+
+# Logs
+npm-debug.log*
+yarn-debug.log*
